@@ -1,2 +1,2 @@
 # footballanalysis
-Working with metrica sports data
+Working with football (for now) sports data
